@@ -15,4 +15,6 @@ The video processing pipeline ``process_vid()``, consists of the following steps
       * Right Lane highlighted in Red
       * Lane's Radius of Curvature in meters
       * Car's absolute offset from the center of the lane in meters
+
+DOWNLOAD MP4 VIDEO TO SEE RESULTS
      
